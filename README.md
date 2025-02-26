@@ -38,7 +38,7 @@ Follow these simple steps to run the project locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/onedrop.git
+git clone https://github.com/akhil-varsh/onedrop.git
 
 # Navigate to the project directory
 cd onedrop
@@ -84,5 +84,8 @@ For questions or suggestions, reach out at: **akvarsh1013@gmail.com** 📩
 
 Let’s save lives together! ❤️🩸
 
+---
 
-
+<p align="center">
+  Made with ❤️ by the Akhil
+</p>
